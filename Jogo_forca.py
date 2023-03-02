@@ -3,6 +3,7 @@
 
 # Import
 import random
+from os import system,name
 
 # Board (tabuleiro)
 
